@@ -1,5 +1,5 @@
 # Introduction-to-Quantitative-Trading
-#QUESTION 1:
+#QUESTION 1:#
 So your first task would be to choose 5 stocks of your choice,download their data as a data frame and calculate the following ratios: i) Open/Close ii)Open/Low iii)High/Low iv)High/Close And find no. time these ratios become equal to 0.35, 0.5, 1, 3.5. The time period for the same would be Jan 2022 to Jan 2023.
 
 Your second task will consist of plotting graphs of these stocks. You need to plot the high and low of any 1 stock of your choice with time intervals of 1 day (candlestick pattern). Moreover on a separate graph, you need to plot the graph of closing prices of 2 stocks on the same graph (line graph). The period of plotting will be from Jan 2020- Jan 2023.
